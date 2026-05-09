@@ -1,2 +1,7 @@
-# simple-interest-calculator
-Simple Interest Calculator Project
+# Simple Interest Calculator
+
+This project calculates simple interest using Bash scripting.
+
+## Formula
+
+Simple Interest = (Principal × Rate × Time) / 100
